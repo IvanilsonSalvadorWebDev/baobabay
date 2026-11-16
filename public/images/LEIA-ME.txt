@@ -1,0 +1,4 @@
+Coloque aqui as imagens do site (mesmos nomes usados antes):
+hero.jpg logo.png lojas.jpg atendimento.jpg centro-comercial.jpg
+xyami.png mdc.png shoprite.png kibabo.png angomart.png
+samsung.png huawei.png vivo.png realme.png ipro.png tiok.png
